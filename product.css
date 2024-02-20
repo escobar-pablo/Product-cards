@@ -20,7 +20,7 @@ body{
 .prod-img{
     /* border: 1px solid red; */
     background-image: url('./image/image-product-desktop.jpg');
-    width: 17rem;
+    width: 17.3rem;
     background-size: cover;
     background-position: center;
     border-top-left-radius: 0.9rem;
